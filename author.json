@@ -1,0 +1,22 @@
+{
+  "name": "OpenSource Project",
+  "tagline": "Разработка и поддержка Chernox",
+  "about": "Chernox — локальная панель для управления sing-box на OpenWrt. Спасибо, что пользуетесь проектом.",
+  "donations": [
+    {
+      "label": "USDT TRC20",
+      "value": "TEAv7pZVgA6TVH3APrxVi9HFMqg94dDaAM",
+      "note": "Сеть TRON"
+    }
+  ],
+  "links": [
+    {
+      "label": "Telegram канал",
+      "url": "https://t.me/project_chernox"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/donttracked/chernox"
+    }
+  ]
+}

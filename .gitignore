@@ -1,0 +1,30 @@
+# Runtime-файлы панели
+panel.db
+panel.db-*
+*.db
+*.db-wal
+*.db-shm
+
+# Локальные настройки и секреты
+config.json
+config.ini
+.env
+.env.*
+
+# Логи и временные файлы
+*.log
+*.pid
+*.tmp
+*.bak
+nohup.out
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Прочее
+.DS_Store
+Thumbs.db
